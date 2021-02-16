@@ -2,6 +2,7 @@
 
 # 2020-Spinning-Text-Gadget
 This repository is for a gadget which includes a spining 2020 text and an LCD display.
+![Preview](.misc/Screenshot_20210216_002511-1.png)
 
 ## Construction
 The inside of the enclosure contained the following components:
